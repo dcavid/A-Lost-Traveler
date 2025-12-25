@@ -1,4 +1,4 @@
-# A Lost Travelor
+# A Lost Traveler
 
 This is a 2D Dungeon Crawler game, where the player enters a last stand to clear as many waves of enemies as possible. The player is able to control a character, who is an accidental time traveler and wishes to return home. The interface is a GUI that displays the UI, abilities, map, player, and enemies. There will be a never-ending sequence of rooms that each contain enemies for the player to clear in order to progress. However, as you venture farther into the rift of time, you will begin to notice that each room will gradually increase in difficulty as the enemies grow stronger and faster.
 
